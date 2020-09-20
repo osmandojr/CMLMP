@@ -1,2 +1,3 @@
 # CMLMP
-Algortihms for Completed Mean Local Mapped Pattern - CMLPM
+Algorithms for Completed Mean Local Mapped Pattern - CMLPM
+
